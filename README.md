@@ -1,7 +1,7 @@
 brainfuck-c
 ===========
 
-Brainfuck interpreter written in C.
+Brainfuck interpreter written in C. Can be compiled with `gcc -o bf bf.c`
 
 ###Brainfuck commands
 
